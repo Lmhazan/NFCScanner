@@ -11,6 +11,7 @@ AppRegistry.registerComponent('NfcManagerDev', () => App);
 
 //Scan NFC Tag
 //Verify information from blockchain back-end
+//Be able to verify multiple tags at once
 //Store item in personal "closet"
 //
 //
